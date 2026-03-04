@@ -1,5 +1,5 @@
 # Loubna_portfolio
-👩‍💻 Loubna Semlali – Backend Developer (Bac+2)
+👩‍💻 Loubna Semlali – Web Developer (Bac+2)
 
  About Me
 
